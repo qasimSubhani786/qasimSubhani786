@@ -3,6 +3,7 @@
 <h3 align="center">🚀 Crafting seamless mobile and web experiences with React, Next.js, and Node.js | Building scalable solutions, one line of code at a time 🌐</h3>
 
 <img
+  align="right"
 alt="coding"
 width="400"
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGd2bG50OXlweTA4bGJuNHBzeDhxZ2Q0YW0yMHYzNng0cndtNWJhcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"
